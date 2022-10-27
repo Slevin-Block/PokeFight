@@ -31,6 +31,7 @@ body
 
 #game
 {
+    height: auto;
     width: 70%;
     background-color : darkkhaki;
     background-image: url("../img/Pokémon_Stadium_Large.png");
@@ -44,7 +45,7 @@ body
     border-radius: 15px;
     box-shadow: 10px 10px 10px black;
 
-    
+
     grid-template: 
         ". titre ."         10%
         "stateOne playground stateTwo"    559px
