@@ -44,6 +44,7 @@ body
     border-radius: 15px;
     box-shadow: 10px 10px 10px black;
 
+    
     grid-template: 
         ". titre ."         10%
         "stateOne playground stateTwo"    559px
